@@ -2,32 +2,41 @@
 
 # Adventure Time: Space Station 14
 
-Space Station 14 это ремейк SS13, который работает на собственном движке [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написанном на C#.
+# Space Station ADT (Fork)
 
-Adventure Time - это проект русскоязычного сервера по Space Station 14, целью которого является полный перевод игры на русский язык, поддержка актуальных изменений из основного репозитория, а так же добавление собственных изменений по необходимости.
+This repository is a fork of the [Space Station ADT](https://github.com/AdventureTimeSS14/space_station_ADT) project, part of the *Adventure Time* team for the game *Space Station 14*. 
 
-## Ссылки
-[Наш Discord](https://discord.gg/NY3KDNuH9r) | [Наша вики](https://wiki.adventurestation.space/Заглавная_страница) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
+## About This Project
 
-## Документация
-На официальном сайте предоставлена [документация](https://docs.spacestation14.io/), содержащая всю необходимую информацию о контенте SS14, движке, геймдизайне и многом другом. Там также предостаточно информации для начинающих разработчиков.
+The main repository contains the complete details about the project, including the license and full documentation. You can find it [here](https://github.com/AdventureTimeSS14/space_station_ADT).
 
-## Контрибьют
-Мы приветствуем взносы от любого желающего. Присоединяйтесь к нашему Discord, если хотите помочь. У нас есть список [задач](https://github.com/AdventureTimeSS14/space_station_ADT/issues), которые нужно решить, и каждый может их взять на себя. Не стесняйтесь просить о помощи!
-Просто убедитесь, что ваши изменения и запросы на принятие изменений соответствуют [руководству по участию](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+This fork serves as an example of my contributions to the project during my time working on it.
 
-## Сборка
-1. Клонируйте этот репозиторий локально.
-2. Запустите RUN_THIS.py для инициализации подмодулей и загрузки движка.
-3. Скомпилируйте проект с помощью команды dotnet build. 
+---
 
-[Более подробные инструкции по запуску проекта.](https://docs.spacestation14.com/en/general-development/setup.html)
+## My Contributions
 
-## Лицензия
-Содержимое, добавленное в этот репозиторий после коммита ec1ea3b4a902ba253994b19f228af277dbd34f4e (`2 августа 2024 08:50:00 UTC`), распространяется по лицензии GNU Affero General Public License версии 3.0, если не указано иное. См. [LICENSE-AGPLv3](https://github.com/AdventureTimeSS14/space_station_ADT/blob/master/LICENSE-AGPLv3.txt).
+While working on this project, I had the opportunity to:
+- **Add New Features to the Game:** Introduced improvements and implemented game functionalities.
+- **Work with Code in an Unknown Language (C#):** Despite being unfamiliar with C#, I successfully navigated the codebase and made meaningful contributions.
+- **Conduct Code Reviews:** Reviewed and provided feedback on code submitted by others, ensuring quality and consistency across the project.
+- **Submit Merged Pull Requests:** My work resulted in several merged pull requests. You can see a list of my contributions [here](https://github.com/AdventureTimeSS14/space_station_ADT/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me).
 
-Содержимое, добавленное в этот репозиторий до коммита ec1ea3b4a902ba253994b19f228af277dbd34f4e (`2 августа 2024 08:50:00 UTC`), распространяется по лицензии MIT если не указано иное. См. [LICENSE](https://github.com/AdventureTimeSS14/space_station_ADT/blob/master/LICENSE.TXT).
+---
 
-Большинство ресурсов лицензированы по [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. У ресурсов есть собственная лицензия и информация об авторском праве в метаданных файла. [Пример](https://github.com/space-syndicate/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+## Learning Outcomes
 
-Обратите внимание, что некоторые ресурсы лицензированы на некоммерческой основе [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или подобной некоммерческой лицензии, и они должны быть удалены, если вы планируете использовать этот проект в коммерческих целях.
+- Improved my skills by working on a **large-scale collaborative project**.
+- Developed an understanding of **C#** through hands-on experience and working with existing code.
+- Gained experience in **collaborating on open-source projects**, including code reviews, feature implementation, and issue resolution.
+
+---
+
+## Current State of the Fork
+
+This fork reflects the state of the project when I stopped working on it and is no longer updated. For the latest version and ongoing updates, refer to the [main repository](https://github.com/AdventureTimeSS14/space_station_ADT).
+
+---
+
+Thank you for taking the time to explore this project. Feel free to reach out if you have any questions or need further details about my contributions!
+
