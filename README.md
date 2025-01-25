@@ -1,8 +1,7 @@
 <p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
 
-# Adventure Time: Space Station 14
+# Adventure Time: Space Station 14 (Fork)
 
-# Space Station ADT (Fork)
 
 This repository is a fork of the [Space Station ADT](https://github.com/AdventureTimeSS14/space_station_ADT) project, part of the *Adventure Time* team for the game *Space Station 14*. 
 
