@@ -19,7 +19,7 @@ While working on this project, I had the opportunity to:
 - **Add New Features to the Game:** Introduced improvements and implemented game functionalities.
 - **Work with Code in an Unknown Language (C#):** Despite being unfamiliar with C#, I successfully navigated the codebase and made meaningful contributions.
 - **Conduct Code Reviews:** Reviewed and provided feedback on code submitted by others, ensuring quality and consistency across the project.
-- **Submit Merged Pull Requests:** My work resulted in several merged pull requests. You can see a list of my contributions [here](https://github.com/AdventureTimeSS14/space_station_ADT/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me).
+- **Submit Merged Pull Requests:** My work resulted in several merged pull requests. You can see a list of my contributions [here]([https://github.com/AdventureTimeSS14/space_station_ADT/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me](https://github.com/AdventureTimeSS14/space_station_ADT/issues?q=state%3Aclosed%20is%3Apr%20author%3Anixsilvam404)).
 
 ---
 
